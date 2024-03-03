@@ -1,5 +1,5 @@
-public 
-public static void main(String[] args) {
+public class Find_the_Maximum_SubArray_with_Given_Sum {
+    public static void main(String[] args) {
     int arr[]={-2,1,-3,4,-1,2,2,1,1,2,2,2,2};
     int sum =6;
     int s= 0;
@@ -38,6 +38,9 @@ public static void main(String[] args) {
     }
     
 }
-Find_the_Maximum_SubArray_with_Given_Sum {
+ 
     
 }
+
+    
+
